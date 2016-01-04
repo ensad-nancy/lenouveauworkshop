@@ -2,10 +2,15 @@
 /* CSS Document */
 
 @font-face {
-	font-family: 'Savate-regular';
-	src: url('http://github.com/CollectifWech/Savate/otf/savate-regular.otf');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'savateregular';
+    src: url('savate-regular-webfont.eot');
+    src: url('savate-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('savate-regular-webfont.woff2') format('woff2'),
+         url('savate-regular-webfont.woff') format('woff'),
+         url('savate-regular-webfont.ttf') format('truetype'),
+         url('savate-regular-webfont.svg#savateregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
@@ -17,14 +22,14 @@ body {
 }
 
 h1 {
-	font-family: 'Savate-regular';
+	font-family: 'savateregular';
 	color:yellow;
 	font-size: 34px;
 	padding-left: 10px;
 }
 
 h4 {
-	font-family: 'Savate-regular';
+	font-family: 'savateregular';
 	font-size: 18px;
 	padding-bottom: 20px;
 }
