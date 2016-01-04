@@ -13,7 +13,7 @@ body {
 @font-face {
 	font-family: 'Conv_savate-regular';
 	src: url('fonts/savate-regular.eot');
-	src: local('Users/Tinmar/Downloads/savate-regular/fonts'), url('fonts/savate-regular.woff') format('woff'), url('fonts/savate-regular.ttf') format('truetype'), url('fonts/savate-regular.svg') format('svg');
+	src: local('Users/Tinmar/Downloads/savate-regular/fonts/savate-regular.ttf'), url('fonts/savate-regular.woff') format('woff'), url('fonts/savate-regular.ttf') format('truetype'), url('fonts/savate-regular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -33,7 +33,7 @@ h4 {
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 28px;
 }
 
 a {
