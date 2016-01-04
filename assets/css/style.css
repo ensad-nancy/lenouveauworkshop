@@ -1,17 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
 
-@font-face {
-    font-family: 'savateregular', sans-serif;
-    src: url('savate-regular-webfont.eot');
-    src: url('savate-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('savate-regular-webfont.woff2') format('woff2'),
-         url('savate-regular-webfont.woff') format('woff'),
-         url('savate-regular-webfont.ttf') format('truetype'),
-         url('savate-regular-webfont.svg#savateregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 
 body {
 	font-family: 'Playfair Display', serif;
@@ -49,4 +38,16 @@ a:hover {
 
 .list {
 	padding-top: 20px;
+}
+
+@font-face {
+    font-family: 'savateregular', sans-serif;
+    src: url('savate-regular-webfont.eot');
+    src: url('savate-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('savate-regular-webfont.woff2') format('woff2'),
+         url('savate-regular-webfont.woff') format('woff'),
+         url('savate-regular-webfont.ttf') format('truetype'),
+         url('savate-regular-webfont.svg#savateregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
