@@ -12,15 +12,15 @@ body {
 }
 
 @font-face {
-	font-family: 'Savate';
+	font-family: 'Savate', sans-serif;
 	src: url('https://github.com/CollectifWech/Savate/blob/master/otf/savate-regular.otf');	
 }
 
 h1 {
+	font-family: 'Savate';
 	color:yellow;
 	font-size: 34px;
 	padding-left: 10px;
-	font-family: 'Savate';
 }
 
 h4 {
