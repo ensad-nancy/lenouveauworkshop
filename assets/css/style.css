@@ -30,3 +30,7 @@ a {
 a:hover {
 	color:#FFF;
 }
+
+.list {
+	padding-top: 15px;
+}
