@@ -21,9 +21,13 @@ h4 {
 	color:#FFFF00;
 	font-size: 18px;
 	text-decoration: underline;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 }
 
 a {
+	color: yellow;
+}
+
+a:hover {
 	color:#FFF;
 }
