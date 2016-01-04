@@ -11,7 +11,7 @@ body {
 
 @font-face {
 	font-family: 'Savate-regular';
-	src: url('Savate/otf/savate-regular.otf');
+	src: url('http://github.com/CollectifWech/Savate/otf/savate-regular.otf');
 	font-weight: normal;
 	font-style: normal;
 }
