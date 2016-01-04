@@ -1,19 +1,19 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@font-face {
+	font-family: 'Savate-regular';
+	src: url('http://github.com/CollectifWech/Savate/otf/savate-regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
 body {
 	font-family: 'Playfair Display', serif;
  	font-weight: 100;
  	font-size: 21px;
 	background-color:#000;
 	color: #FFF;
-}
-
-@font-face {
-	font-family: 'Savate-regular';
-	src: url('http://github.com/CollectifWech/Savate/otf/savate-regular.otf');
-	font-weight: normal;
-	font-style: normal;
 }
 
 h1 {
