@@ -11,11 +11,17 @@ body {
 
 }
 
+@font-face {
+	font-family: 'Savate';
+	src: url('https://github.com/CollectifWech/Savate/blob/master/otf/savate-regular.otf');	
+}
+
 h1 {
 	color:yellow;
 	text-decoration: underline;
 	font-size: 34px;
 	padding-left: 10px;
+	font-family: 'Savate';
 }
 
 h4 {
@@ -33,5 +39,5 @@ a:hover {
 }
 
 .list {
-	padding-top: 25px;
+	padding-top: 30px;
 }
