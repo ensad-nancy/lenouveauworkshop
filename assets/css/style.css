@@ -2,6 +2,7 @@
 /* CSS Document */
 
 body {
+	font-family: 'Playfair Display', serif;
  	font-weight: 100;
  	font-size: 21px;
 	background-color:#000;
@@ -10,7 +11,7 @@ body {
 
 @font-face {
 	font-family: 'Savate-regular';
-	src: url('https://github.com/CollectifWech/Savate/blob/master/otf/savate-regular.otf');
+	src: url('Savate/otf/savate-regular.otf');
 	font-weight: normal;
 	font-style: normal;
 }
