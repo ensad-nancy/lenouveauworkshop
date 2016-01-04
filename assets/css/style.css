@@ -6,13 +6,13 @@ body {
 	font-family: 'Playfair Display', serif;
  	font-weight: 100;
  	font-size: 21px;
-	background-color:#000;
-	color: #FFF;
+	background-color:#FFF;
+	color: #000;
 }
 
 h1 {
 	font-family: 'arial black';
-	color:#FFF;
+	color:#OOO;
 	font-size: 41px;
 	padding-left: 10px;
 }
@@ -29,11 +29,11 @@ h2 {
 }
 
 a {
-	color:#FFF;
+	color:#OOO;
 }
 
 a:hover {
-	color:#FFF;
+	color:#134;
 }
 
 .list {
