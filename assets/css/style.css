@@ -11,24 +11,22 @@ body {
 }
 
 @font-face {
-	font-family: 'Conv_savate-regular';
-	src: url('fonts/savate-regular.eot');
-	src: local('Users/Tinmar/Downloads/savate-regular/fonts/savate-regular.ttf'), url('fonts/savate-regular.woff') format('woff'), url('fonts/savate-regular.ttf') format('truetype'), url('fonts/savate-regular.svg') format('svg');
+	font-family: 'Savate-regular';
+	src: url('https://github.com/CollectifWech/Savate/blob/master/otf/savate-regular.otf');
 	font-weight: normal;
 	font-style: normal;
 }
 
 h1 {
-	font-family: 'Conv_savate-regular';
+	font-family: 'Savate-regular';
 	color:yellow;
 	font-size: 34px;
 	padding-left: 10px;
 }
 
 h4 {
-	font-family: 'Conv_savate-regular';
+	font-family: 'Savate-regular';
 	font-size: 18px;
-	text-decoration: underline;
 	padding-bottom: 20px;
 }
 
