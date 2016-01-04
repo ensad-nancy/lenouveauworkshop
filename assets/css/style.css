@@ -13,7 +13,7 @@ body {
 @font-face {
 	font-family: 'Conv_savate-regular';
 	src: url('fonts/savate-regular.eot');
-	src: local('☺'), url('fonts/savate-regular.woff') format('woff'), url('fonts/savate-regular.ttf') format('truetype'), url('fonts/savate-regular.svg') format('svg');
+	src: local('Users/Tinmar/Downloads/savate-regular/fonts'), url('fonts/savate-regular.woff') format('woff'), url('fonts/savate-regular.ttf') format('truetype'), url('fonts/savate-regular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
