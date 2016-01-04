@@ -13,8 +13,9 @@ body {
 h1 {
 	font-family: 'arial black';
 	color:#FFF;
-	font-size: 84px;
+	font-size: 72px;
 	padding-left: 10px;
+	text-align: center;
 }
 
 h4 {
