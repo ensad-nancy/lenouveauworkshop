@@ -12,20 +12,19 @@ body {
 }
 
 h1 {
-	color:#FFF;
+	color:yellow;
 	text-decoration: underline;
 	font-size: 34px;
 }
 
 h4 {
-	color:#FFFF00;
 	font-size: 18px;
 	text-decoration: underline;
 	padding-bottom: 15px;
 }
 
 a {
-	color: yellow;
+	color:yellow;
 }
 
 a:hover {
