@@ -26,7 +26,6 @@ h4 {
 
 h2 {
 	font-size: 28px;
-	padding-top: 20px;
 }
 
 a {
@@ -39,4 +38,9 @@ a:hover {
 
 .list {
 	padding-top: 20px;
+}
+
+.readme {
+	padding-top: 20px;
+
 }
