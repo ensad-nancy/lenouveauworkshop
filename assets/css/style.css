@@ -1,48 +1,23 @@
 @charset "UTF-8";
 /* CSS Document */
 
-h1 {
-	font-family: 'Playfair Display', serif;
-	font-weight:100;
-	font-size:26px;
-	color:#FFF;
-	margin-left:22px;
-	padding-top:5px;
-}
-
-h2 {
-	font-family: 'Playfair Display', serif;
-	font-weight:100;
-	font-size:26px;
-	color:#FFF;
-}
-
-h3 {
-	font-family: 'Playfair Display', serif;
-	font-weight:100;
-	font-size:26px;
-	color:#FFF;
-	margin-bottom:-48px;
-	margin-top:-10px;
-}
-
 body {
+
+	font-family: 'Playfair Display', serif;
+ 	font-weight: 100;
 	background-color:#000;
+
 }
 
-
-#link {
-	font-family: 'Playfair Display', serif;
-	font-weight:100;
-	font-size:14px;
+h1 {
 	color:#FFF;
-	padding-top:15px;
-	margin-bottom:-10px;
+	text-decoration: underline;
+}
+
+h4 {
+	color:#FFF;
 }
 
 a {
-	font-family: 'Playfair Display', serif;
-	font-weight:100;
-	font-size:14px;
 	color:#FFF;
 }
