@@ -5,7 +5,7 @@ body {
 
 	font-family: 'Playfair Display', serif;
  	font-weight: 100;
- 	font-size: 16px;
+ 	font-size: 18px;
 	background-color:#000;
 	color: #FFF;
 
@@ -14,12 +14,12 @@ body {
 h1 {
 	color:#FFF;
 	text-decoration: underline;
-	font-size: 24px;
+	font-size: 26px;
 }
 
 h4 {
 	color:#FFFF00;
-	font-size: 11px;
+	font-size: 13px;
 	text-decoration: underline;
 }
 
