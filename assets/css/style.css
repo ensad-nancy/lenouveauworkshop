@@ -2,7 +2,7 @@
 /* CSS Document */
 
 @font-face {
-    font-family: 'savateregular';
+    font-family: 'savateregular', sans-serif;
     src: url('savate-regular-webfont.eot');
     src: url('savate-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('savate-regular-webfont.woff2') format('woff2'),
@@ -22,14 +22,14 @@ body {
 }
 
 h1 {
-	font-family: 'savateregular';
+	font-family: 'savateregular', sans-serif;
 	color:yellow;
 	font-size: 34px;
 	padding-left: 10px;
 }
 
 h4 {
-	font-family: 'savateregular';
+	font-family: 'savateregular', sans-serif;
 	font-size: 18px;
 	padding-bottom: 20px;
 	text-align: right;
@@ -48,5 +48,5 @@ a:hover {
 }
 
 .list {
-	padding-top: 25px;
+	padding-top: 20px;
 }
