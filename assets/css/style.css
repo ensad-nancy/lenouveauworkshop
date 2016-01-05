@@ -46,8 +46,8 @@ a:hover {
 
 @font-face {
 	font-family: ‘Savate’;
-	src: url(Savate/otf/savate-regular.otf);
-	src: local (/Users/Tinmar/Pictures/PROJETS_ENCOURS/ENSA—NANCY/ENSA_2015-2016_1/plateforme_transmedia/lenouveauworkshop/font/savate-regular.otf);
+	src: url('Savate/otf/savate-regular.otf');
+	src: local ('/Users/Tinmar/Pictures/PROJETS_ENCOURS/ENSA—NANCY/ENSA_2015-2016_1/plateforme_transmedia/lenouveauworkshop/font/savate-regular.otf');
 }
 
 
