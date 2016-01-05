@@ -10,5 +10,5 @@
 #### [→ Download zip](/)  
 
 ## *#Mods*, Anaïs Denis.
-Réalisation d’une édition reposant sur une sélection de scènes dialoguées du moyen métrage Mods de Serge Bozon, écrites par Axelle Ropert.
+Réalisation d’une édition reposant sur une sélection de scènes dialoguées du moyen métrage *Mods* de Serge Bozon, écrites par Axelle Ropert.
 #### [→ Download zip](/)  
