@@ -6,5 +6,9 @@
 #### [→ Download zip](/)  
 
 ## *#ElephantInTheLiving*, M'hand Abadou & Jean Delahaye.  
-Partant de la fable de Krylov afin de débusquer les "éléphants" contemporains dans (et hors de) nos champs de vision.  
+À partir de la fable de Krylov, recherche des "éléphants" contemporains dans (et hors de) nos champs de vision.  
+#### [→ Download zip](/)  
+
+## *#Mods*, Anaïs Denis.
+Réalisation d’une édition reposant sur une sélection de scènes dialoguées du moyen métrage Mods de Serge Bozon, écrites par Axelle Ropert.
 #### [→ Download zip](/)  
