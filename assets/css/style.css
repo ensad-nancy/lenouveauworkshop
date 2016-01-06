@@ -11,13 +11,15 @@ body {
 }
 
 h1 {
-	font-family: 'Didact Gothic', sans-serif;	color:#FFF;
+	font-family: 'Didact Gothic', sans-serif;	
+	color:#FFF;
 	font-size: 48px;
 	padding-left: 10px;
 }
 
 h4 {
-	font-family: 'Didact Gothic', sans-serif;	font-size: 18px;
+	font-family: 'Didact Gothic', sans-serif;	
+	font-size: 18px;
 	padding-bottom: 20px;
 	text-align: right;
 }
@@ -41,4 +43,5 @@ a:hover {
 .readme {
 	padding-top: 20px;
 	font-size: 18px;
+	font-family: 'Didact Gothic', sans-serif;	
 }
