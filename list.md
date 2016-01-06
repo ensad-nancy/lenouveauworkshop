@@ -3,7 +3,7 @@
 #### [→ Download zip](/)  
 
 ## *#SniffSnuff*, Jean Delahaye & M'hand Abadou.
-Recherche dans les méandres de la sphère *snuff movie*.
+Recherches dans les méandres de la sphère *snuff movie*.
 #### [→ Download zip](/)  
 
 ## *#ElephantInTheLiving*, M'hand Abadou & Jean Delahaye.  
