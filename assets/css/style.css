@@ -11,15 +11,13 @@ body {
 }
 
 h1 {
-	font-family: arial black;
-	color:#FFF;
+	font-family: 'Didact Gothic', sans-serif;	color:#FFF;
 	font-size: 41px;
 	padding-left: 10px;
 }
 
 h4 {
-	font-family: arial black;
-	font-size: 18px;
+	font-family: 'Didact Gothic', sans-serif;	font-size: 18px;
 	padding-bottom: 20px;
 	text-align: right;
 }
@@ -43,4 +41,3 @@ a:hover {
 .readme {
 	padding-top: 20px;
 }
-
