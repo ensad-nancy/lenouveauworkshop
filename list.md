@@ -12,3 +12,7 @@
 ## *#Mods*, Anaïs Denis.
 Réalisation d’une édition reposant sur une sélection de scènes dialoguées du moyen métrage *Mods* de Serge Bozon, écrites par Axelle Ropert.
 #### [→ Download zip](/)  
+
+## *#Informationdesign*, Léa Silvestrucci.
+Réalisation de visualisations d’informations, à partir du poème *Inventaire* de Jacques Prévert, de 1946.
+#### [→ Download zip](/)  

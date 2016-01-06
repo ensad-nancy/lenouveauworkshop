@@ -10,6 +10,12 @@ body {
 	color: #FFF;
 }
 
+@font-face {
+	font-family: ‘Savate’;
+	src: url('Savate/otf/savate-regular.otf');
+	src: local ('/Users/Tinmar/Pictures/PROJETS_ENCOURS/ENSA—NANCY/ENSA_2015-2016_1/plateforme_transmedia/lenouveauworkshop/font/savate-regular.otf');
+}
+
 h1 {
 	font-family: ‘Savate’;
 	color:#FFF;
@@ -43,11 +49,4 @@ a:hover {
 .readme {
 	padding-top: 20px;
 }
-
-@font-face {
-	font-family: ‘Savate’;
-	src: url('Savate/otf/savate-regular.otf');
-	src: local ('/Users/Tinmar/Pictures/PROJETS_ENCOURS/ENSA—NANCY/ENSA_2015-2016_1/plateforme_transmedia/lenouveauworkshop/font/savate-regular.otf');
-}
-
 
