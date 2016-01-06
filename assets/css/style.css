@@ -7,12 +7,12 @@ body {
  	font-weight: 100;
  	font-size: 21px;
 	background-color:#000;
-	color: #FFFF6B;
+	color: #FFF;
 }
 
 h1 {
 	font-family: 'Didact Gothic', sans-serif;	
-	color:#FFFF6B;
+	color:#FFF;
 	font-size: 48px;
 	padding-left: 10px;
 }
@@ -29,7 +29,7 @@ h2 {
 }
 
 a {
-	color:#FFFF6B;
+	color:#FFF;
 }
 
 a:hover {
@@ -43,6 +43,5 @@ a:hover {
 .readme {
 	padding-top: 20px;
 	font-size: 18px;
-	font-family: 'Didact Gothic', sans-serif;
-	color: #FFFF6B;
+	font-family: 'Didact Gothic', sans-serif;	
 }
