@@ -10,21 +10,15 @@ body {
 	color: #FFF;
 }
 
-@font-face {
-	font-family: ‘Savate’;
-	src: url('Savate/otf/savate-regular.otf');
-	src: local ('/Users/Tinmar/Pictures/PROJETS_ENCOURS/ENSA—NANCY/ENSA_2015-2016_1/plateforme_transmedia/lenouveauworkshop/font/savate-regular.otf');
-}
-
 h1 {
-	font-family: ‘Savate’;
+	font-family: arial black;
 	color:#FFF;
 	font-size: 41px;
 	padding-left: 10px;
 }
 
 h4 {
-	font-family: ‘Savate’;
+	font-family: arial black;
 	font-size: 18px;
 	padding-bottom: 20px;
 	text-align: right;
