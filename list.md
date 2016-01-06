@@ -17,3 +17,11 @@ Réalisation d’une édition reposant sur une sélection de scènes dialoguées
 ## *#InformationDesign*, Léa Silvestrucci.
 Réalisation de visualisations d’informations, à partir du poème *Inventaire* de Jacques Prévert, de 1946.
 #### [→ Download zip](/)  
+
+## *#Area51*, Quentin Stock.
+Création d’une mini maison d’édition et production d’un livre en temps limité sur le thème de la zone 51 et de l’ufologie, en expérimentant la mise en page à la main.
+#### [→ Download zip](/)  
+
+## *#Statements*, Camille Thomas.
+Réactivation d'énoncés de Lawrence Weiner issus du livre *Statements* publié en 1968 et réinterprétation d'œuvres à la manière de l'artiste.
+#### [→ Download zip](/)  
