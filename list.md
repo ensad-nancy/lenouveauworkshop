@@ -25,3 +25,11 @@ Création d’une mini maison d’édition et production d’un livre en temps l
 ## *#Statements*, Camille Thomas.
 Réactivation d'énoncés de Lawrence Weiner issus du livre *Statements* publié en 1968 et réinterprétation d'œuvres à la manière de l'artiste.
 #### [→ Download zip](/)  
+
+## *#DesignParticipatif*, Alexandra Bellon.
+Réalisation d’affiches illustrant intuitivement, collectivement et sans réflexion préalable (rotation toutes les 2 min entre chaque poste de travail), la citation de Luna Maurer (Moniker). 
+#### [→ Download zip](/)  
+
+## *#ImagesGratuites*, Adeline Abegg & Martin Ferrer
+Réinterprétations graphiques d’images maladroites.
+#### [→ Download zip](/)  
