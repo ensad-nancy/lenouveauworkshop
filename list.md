@@ -32,4 +32,5 @@ Réactivation d'énoncés de Lawrence Weiner issus du livre *Statements* publié
 
 ## *#DesignParticipatif*, Alexandra Bellon.
 Réalisation d’affiches illustrant intuitivement, collectivement et sans réflexion préalable (rotation toutes les 2 min entre chaque poste de travail), la citation de Luna Maurer (Moniker). 
-#### → Zip soon
+#### [→ Download zip](https://www.dropbox.com/s/upt4ld49kyhpwpa/alexandra%20bellon%20-%20Design_participatif.zip?dl=1)  
+
